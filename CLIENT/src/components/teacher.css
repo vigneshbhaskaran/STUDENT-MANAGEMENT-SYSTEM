@@ -1,0 +1,37 @@
+.reg
+{
+    margin-left:200px;
+}
+.mid
+{
+    height:550px;
+    width:100%;
+    background-color: lightcyan;
+}
+.mid p{
+    font-size: 25px;
+    background-color: rgba(75, 196, 252, 0.2);
+}
+.social,.doc,.contro
+{
+    width:50px;
+    height:50px;
+    color:blue;
+}
+.mid h4{
+    color:red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style:normal;
+    font-size:20px;
+
+}
+.vid
+{
+    height:300px;
+    justify-content: center;
+}
+.vv
+{
+    width:1000px;
+    height:300px;
+}

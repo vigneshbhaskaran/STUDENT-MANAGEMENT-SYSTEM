@@ -1,0 +1,59 @@
+#nam,#emai,#passwor,select{
+    width:300px;
+    height:30px;
+    border-radius: 5px 5px;
+
+}
+.button
+{
+    width:300px;
+    height: 30px;
+    background-color:rgba(75, 197, 45, 0.63);
+    margin-top:30px;
+    color:white;
+    margin-left:10px;
+}
+
+
+
+.log
+{
+    background: rgba(141, 22, 219, 0.678);
+    width:500px;
+    height:400px;
+    margin: auto;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+.h
+{
+    text-align: center;
+}
+input:hover{
+    background-color:  rgba(250, 250, 252, 0.466);
+}
+.bot1{
+    
+    text-align: center;
+    background-color: aqua;
+    margin-top: 90px;
+}
+.r
+{
+    color:red;
+    font-size: 20px;
+}
+.eyl
+{
+color:blue;
+width:40px;
+height:20px;
+}
+.eylh
+{
+    color:red;
+    width:40px;
+    height:20px;  
+}

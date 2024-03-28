@@ -1,0 +1,71 @@
+#nam,#emai,#passwor{
+    width:300px;
+    height:30px;
+    border-radius: 5px 5px;
+
+}
+#passwor
+{
+    margin-left:40px;
+}
+.button
+{
+    width:308px;
+    height: 30px;
+    background-color:rgba(75, 197, 45, 0.63);
+    margin-top:30px;
+    color:white;
+}
+#do{
+width:303px;
+height:30px;
+}
+
+#cours
+{
+width: 308px;
+height: 30px;
+}
+
+#ma
+{
+    margin-left:0px ;
+}
+#fe
+{
+    margin-left: 50px;
+}
+.former
+{
+    background: rgba(76, 175, 80, 0.2);
+    width:500px;
+    height:500px;
+    margin: auto;
+    text-align: center;
+    padding-top:30px;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+.h
+{
+    text-align: center;
+}
+input:hover,select:hover{
+    background-color:  rgb(41, 41, 170,0.2);
+}
+.dob
+{
+margin-left: 0px;
+}
+.eyes
+{
+    width:40px;
+    height: 20px;
+    color:blue;
+}
+.eyeh
+{
+    width:40px;
+    height: 20px;
+    color:red; 
+}

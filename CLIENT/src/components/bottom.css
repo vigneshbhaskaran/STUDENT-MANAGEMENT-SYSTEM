@@ -1,0 +1,19 @@
+.bbb
+{
+    background-color: rgba(150, 31, 31, 0.3);
+    height:300px;
+
+}
+.t
+{
+    align-items: center;
+    
+}
+.t p{
+    margin-left: 80px;
+}
+.ad
+{
+    margin-top:50px;
+    margin-left:350px;
+}

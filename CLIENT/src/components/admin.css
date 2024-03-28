@@ -1,0 +1,40 @@
+.ff{
+    width:150px;
+    height:700px;
+   background-color: #16113a;
+   
+    text-align: center;
+
+    }
+.al
+{
+    color:white;
+    font-size: 18px;
+    padding: 20px;
+}
+.hrc
+{   height: 5px;
+    color: rgb(223, 69, 164);
+    
+}
+.d
+{
+    color:aqua;
+}
+.head
+{
+    text-align: center;
+    background-color: aqua;
+    
+}
+.info
+{
+    text-align: center;
+    background-color:rgb(201, 44, 167,0.6);
+    height: 100px;
+}
+.i12
+{
+    width: 50px;
+    height:30px;
+}

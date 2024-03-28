@@ -1,0 +1,31 @@
+.holder
+{
+background-color: rgb(55, 199, 235);
+align-items: center;
+width:500px;
+height:300px;
+margin: auto;
+background-image: url('./i1.jpg');
+background-size: 500px 300px;
+background-repeat: none;
+
+
+}
+#adminemail
+{
+    margin-top:50px;
+}
+#adminemail,#adminpassword,#adminsubmit
+{margin-left:100px;
+    
+width:300px;
+height:50px;
+}
+#adminsubmit
+{
+    background-color: red;
+}
+#adminemail:hover,#adminpassword:hover
+{
+background-color: antiquewhite;
+}

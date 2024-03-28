@@ -1,0 +1,29 @@
+.l
+{
+    margin-left:350px;
+}
+.b
+{
+    background-color:rgba(55, 232, 238, 0.801);
+    width:100px;
+}
+.abb
+{
+    font-size:25px;
+    color:rgb(54, 221, 243);
+    font-style: bold;
+    margin-left: 50px;
+    
+    
+}
+.abb::before{
+    display:inline-block;
+    content:" ";
+    background: image i5 2px;
+    background-repeat: no-repeat;
+background-size: 20px 20px;
+   
+}
+.c{
+    margin-left: 50px;
+}
